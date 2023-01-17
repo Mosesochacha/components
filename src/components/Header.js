@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function (props) {
+export default function Header(props) {
   return (
     <div>
         <header>
@@ -8,4 +8,4 @@ export default function (props) {
         </header>
     </div>
   )
-}
+  }

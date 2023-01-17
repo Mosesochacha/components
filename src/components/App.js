@@ -1,5 +1,5 @@
 import React from "react";
-import Article from "./Article";
+// import Article from "./Article";
 import About from "./About";
 import Header from "./Header";
 import ArticleList from "./ArticleList";
